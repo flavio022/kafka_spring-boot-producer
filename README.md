@@ -2,6 +2,9 @@
 
 #Start zookeeper server
 zookeeper-server-start /usr/local/etc/kafka/zookeeper.properties
+
+</br>
+
 #Start kafka server
 kafka-server-start /usr/local/etc/kafka/server.properties
 #Creating a topic
